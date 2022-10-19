@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on completing coding challenegs  
-- 🌱 I’m currently learning Entity framework and Nunit testing 
+-
+- 🌱 I’m currently learning unit testing and typescript
 - 💬 Ask me about anything 
 - 📫 How to reach me: tahmasbiashkan@gmail.com     and my webiste :  www.ashkandev.com
