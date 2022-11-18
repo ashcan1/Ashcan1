@@ -1,5 +1,5 @@
   👋 :)  Hi there :)
-  *** software development
+  *** I am a software developer , Problem solving is my passion 
 -
 - 🌱 I’m currently learning Unit testing and Typescript
 - 🤝 I'm open to collaborating on anything!
