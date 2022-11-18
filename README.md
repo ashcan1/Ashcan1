@@ -1,5 +1,5 @@
-  👋 :) 
-  ***I am a software development professional 
+  👋 :)  Hi there :)
+  *** software development
 -
 - 🌱 I’m currently learning Unit testing and Typescript
 - 🤝 I'm open to collaborating on anything!
