@@ -5,4 +5,4 @@
 - 🤝 I'm open to collaborating on anything!
 - 📫 How to reach me: tahmasbiashkan@gmail.com 
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,js,ts,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,angular,mysql,html,css,js,ts,sql)](https://skillicons.dev)
