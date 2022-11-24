@@ -2,7 +2,7 @@
   *** I am a software developer 
 -
 - 🌱 I’m currently learning Unit testing and Typescript
-- 🤝 I'm open to collaborating on anything!
+- 🤝 I'm open to collaborating on projects 
 - 📫 How to reach me: tahmasbiashkan@gmail.com 
 
 
